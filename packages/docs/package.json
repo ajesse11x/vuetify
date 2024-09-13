@@ -17,7 +17,7 @@
   "dependencies": {
     "@vuetify/api-generator": "^1.5.16",
     "babel-polyfill": "^6.26.0",
-    "chokidar": "^2.0.4",
+    "chokidar": "^4.0.0",
     "compression": "^1.7.3",
     "cookie-parser": "^1.4.3",
     "cross-env": "^5.2.0",
